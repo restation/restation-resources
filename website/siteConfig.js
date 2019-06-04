@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'ReStation API', // Title for your website.
   tagline: 'A website for testing',
   url: 'https://restation.github.io', // Your website URL
-  baseUrl: '/restation-resources', // Base URL for your project */
+  baseUrl: '/restation-resources/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
